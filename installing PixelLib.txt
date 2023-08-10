@@ -1,0 +1,6 @@
+pip3 install pycocotools
+pip3 install pixellib
+pip3 install pixellib --upgrade
+
+for torch module:
+pip install torchvision
